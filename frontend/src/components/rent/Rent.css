@@ -1,0 +1,44 @@
+.rent {
+    margin: 80px auto;
+    width: 80%;
+    display: flex;
+    border: 10px;
+    align-items: center;
+    justify-content: space-between;
+    gap: 48px;
+}
+
+.rent img {
+    width: 100%;
+    display: block;
+}
+
+.rent-left {
+    flex-basis: 40%;
+}
+
+.rent-right {
+    flex-basis: 60%;
+    margin-left: auto;
+}
+
+.rent-right h2 {
+    font-size: 48px;
+}
+
+.rent-right p, h3 {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.rent-right button {
+    background-color: #ff7a00; /* Ubah warna latar belakang tombol menjadi putih */
+  color: #ffffff; /* Ubah warna teks tombol menjadi cokelat */
+  border-color: #ff7a00; /* Ubah warna border tombol menjadi putih */
+  padding: 1vw 2.3vw;
+  font-size: 13px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+}

@@ -1,0 +1,19 @@
+.component {
+    justify-content: center;
+    height: 20vh;
+    text-align: center;
+    padding: 50px;
+    box-sizing: border-box;
+    gap: 5px;
+}
+
+.compo-text {
+    font-size: 20px;
+    padding: 50px;
+}
+
+.compo-content1 {
+    padding: 20px;
+    margin: 0 10px;
+    gap: 10px;
+}

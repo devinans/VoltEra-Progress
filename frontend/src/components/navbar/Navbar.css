@@ -1,0 +1,33 @@
+.navbar {
+    padding: 5px 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 120px;
+}
+
+.navbarMenu {
+    display: flex;
+    list-style: none;
+    gap: 60px;
+    color: black;
+    font-size: 24px;
+}
+
+.navbar .active {
+    color: #FF7A00;
+}
+
+.navbar li {
+    cursor: pointer;
+}
+
+.navbarRight img {
+    cursor: pointer;
+}

@@ -1,0 +1,6 @@
+.footer {
+    background-color: #ffffff; /* Warna latar belakang footer */
+    color: #000000; /* Warna teks footer */
+    padding: 40px 20px; /* Padding di sekitar footer */
+    text-align: left;
+}
